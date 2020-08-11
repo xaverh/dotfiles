@@ -64,3 +64,5 @@ Code/CachedExtensionVSIXs
 mimeapps.list
 gtk-2.0/gtkfilechooser.ini
 *.log
+nnn/plugins-*.tar.gz
+stabilisator/stabilisator
