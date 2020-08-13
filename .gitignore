@@ -6,29 +6,6 @@ gnupg/private-keys-v1.d
 mpv/watch_later
 weechat/logs/
 weechat/certs/
-Code/Backups
-Code/Cache
-Code/CachedData
-Code/CachedExtensions
-Code/GPUCache
-Code/Local Storage/leveldb
-Code/User/globalStorage
-Code/User/workspaceStorage
-Code/Cookies
-Code/Cookies-journal
-Code/machineid
-Code/Network Persistent State
-Code/rapid_render.json
-Code/storage.json
-Code/Code Cache
-Code/logs
-Code/blob_storage
-Code/Local Storage
-Code/Preferences
-Code/Workspaces
-Code/Session Storage
-Code/TransportSecurity
-Code/.org.chromium.Chromium.*
 SSH/.ssh/known_hosts
 SSH/.ssh/authorized_keys
 SSH/.ssh/id_ed25519
@@ -60,7 +37,6 @@ tint2/tint2rc.backup*
 insight-nodejs
 menus/applications-merged
 unity3d
-Code/CachedExtensionVSIXs
 mimeapps.list
 gtk-2.0/gtkfilechooser.ini
 *.log
