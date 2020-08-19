@@ -43,3 +43,7 @@ gtk-2.0/gtkfilechooser.ini
 nnn/plugins-*.tar.gz
 stabilisator/stabilisator
 Code
+xmonad/xmonad-x86_64-linux
+xmonad/xmonad.errors
+xmonad/xmonad.hi
+xmonad/xmonad.o
