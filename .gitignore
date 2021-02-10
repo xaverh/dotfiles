@@ -42,7 +42,6 @@ dbus-org.freedesktop.timer
 swupd-update.service
 swupd-update.timer
 dbus-org.freedesktop.timesync1.service
-
 .pwd.lock
 resolv.conf
 systemd/system/dbus-org.freedesktop.network1.service
@@ -50,4 +49,5 @@ systemd/system/multi-user.target.wants/
 systemd/system/network-online.target.wants/
 systemd/system/sockets.target.wants/
 vconsole.conf
+multipath
 
