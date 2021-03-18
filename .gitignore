@@ -50,4 +50,14 @@ systemd/system/network-online.target.wants/
 systemd/system/sockets.target.wants/
 vconsole.conf
 multipath
-
+BraveSoftware
+Code
+pulse/cookie
+tmp
+var/rua/checked_tars
+var/fonts
+var/recently-used.xbel
+var/zsh_history
+zsh/.zcompdump
+rua/.system
+var/xorg/Xorg.0.log.old
